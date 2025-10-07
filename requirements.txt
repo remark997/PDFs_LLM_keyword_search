@@ -1,0 +1,25 @@
+# Core dependencies for PDF processing and API requests
+requests>=2.31.0
+PyPDF2>=3.0.1
+PyMuPDF>=1.23.0
+argparse>=1.4.0
+
+# OCR dependencies
+# For local OCR using Hugging Face models
+torch>=2.0.0
+transformers>=4.37.0
+qwen-vl-utils
+Pillow>=9.0.0
+
+# Alternative OCR libraries
+easyocr>=1.7.0
+
+# Optional: PaddleOCR (uncomment if needed)
+# paddlepaddle
+# paddleocr
+
+# Image processing
+numpy>=1.24.0
+
+# Additional dependencies for better compatibility
+setuptools>=65.0.0
