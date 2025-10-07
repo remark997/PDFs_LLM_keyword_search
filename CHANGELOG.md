@@ -152,3 +152,4 @@ For questions or issues:
 ---
 
 **Thank you for using PDF Keyword Search!** ⭐
+
